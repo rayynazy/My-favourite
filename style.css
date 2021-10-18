@@ -54,15 +54,19 @@ body{
     background-color: aqua;
     margin: 8px auto;
 }
-#MJ{
+#MJ:hover{
     width: 100px;
+    transform: scale(0.9);
 }
-#KS{
+#KS:hover{
     width: 100px;
+    transform: scale(0.9);
 }
-#cod{
+#cod:hover{
     width: 100px;
+    transform: scale(0.9);
 }
-#sw{
+#sw:hover{
     width: 100px;
+    transform: scale(0.9);
 }
